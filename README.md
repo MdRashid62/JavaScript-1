@@ -1,1 +1,1 @@
-Bas JavaScript
+Basi JavaScript
