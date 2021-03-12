@@ -1,1 +1,1 @@
-Basic JavaScr
+Basic JavaScri
