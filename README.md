@@ -1,1 +1,1 @@
-Basic JavaScrip
+Basic JavaScript
