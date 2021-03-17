@@ -1,1 +1,1 @@
-Basic to adva JavaScript
+Basic to advan JavaScript
