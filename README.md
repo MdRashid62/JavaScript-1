@@ -1,1 +1,1 @@
-Basic to a JavaScript
+Basic to ad JavaScript
