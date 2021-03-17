@@ -1,1 +1,1 @@
-Basic to advanc JavaScript
+Basic to advance JavaScript
