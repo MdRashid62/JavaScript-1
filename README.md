@@ -1,1 +1,1 @@
-Basic to advance JavaScr
+Basic to advance JavaSc
