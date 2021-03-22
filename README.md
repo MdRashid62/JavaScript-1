@@ -1,1 +1,1 @@
-Basic to advance JavaS
+Basic to advance JavaScrip
