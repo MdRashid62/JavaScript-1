@@ -1,1 +1,1 @@
-Basic to advance JavaScript
+Basic to advance JavaScrip
